@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement, Ai, machine learning
 - 🌱 I’m currently learning at ALX, a fullstack 12 month long course
 - 💞️ I’m looking to collaborate on any project related to ai
-- 📫 reach me on my linkedin https://linkedin.com/sam-eph/in
+- 📫 reach me on my linkedin https://linkedin.com/in/sam-eph/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
